@@ -74,10 +74,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 521a1d0d4519f0f2ca64dfdece4486e3
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx 
 ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -103,6 +103,6 @@ friends: [
         href: "https://github.com/angelkevin"
     },{
         title: "QQ",
-        href: "https://user.qzone.qq.com/2215408861"
+        href: "https://user.qzone.qq.com/"
     }
 ]
